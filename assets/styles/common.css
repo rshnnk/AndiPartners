@@ -1221,6 +1221,10 @@ img {
 	position: relative;
 }
 
+a.popup-trigger{
+	background: none;
+}
+
 .popup-trigger-inner{
 	position: absolute;
 	left: 0;
