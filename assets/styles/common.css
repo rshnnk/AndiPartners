@@ -696,8 +696,8 @@ img {
 	z-index: 50;
 	width: 140px;
 	height: 140px;
-	line-height: 1.5;
-	padding: 5px;
+	line-height: 1;
+	padding: 15px;
 	text-align: center;
 	font-size: 23px;
 	background-color: #fff;
@@ -1112,7 +1112,7 @@ img {
 	bottom: 0;
 	right: 0;
 	top: 160%;
-	background: rgba(75, 81, 85, 0.3);
+	background: rgba(75, 81, 85, 0.6);
 	padding: 1%;
 	/*-moz-animation:1s popup-reg  alternate;*/
 	/*-ms-animation:1s popup-reg alternate;*/
