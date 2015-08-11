@@ -1112,11 +1112,8 @@ img {
 	bottom: 0;
 	right: 0;
 	top: 160%;
-	background: rgba(75, 81, 85, 0.6);
+	background: rgba(75, 81, 85, 0.9);
 	padding: 1%;
-	/*-moz-animation:1s popup-reg  alternate;*/
-	/*-ms-animation:1s popup-reg alternate;*/
-	/*-webkit-animation:1s popup-reg alternate;*/
 	-webkit-transition: all 1s ease;
 	-moz-transition: all 1s ease;
 	-ms-transition: all 1s ease;
