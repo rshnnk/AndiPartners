@@ -4,6 +4,13 @@ url(../fonts/MyriadProRegular.ttf) format("truetype");
 	font-style:normal;
 	font-weight:400
 }
+
+@font-face {
+	font-family: lobster, serif;
+	src:url(../fonts/Lobster_1.3.otf);
+	src:url(../fonts/Lobster-Regular.ttf) format("truetype");
+}
+
 * {
 	margin: 0;
 	padding: 0;
