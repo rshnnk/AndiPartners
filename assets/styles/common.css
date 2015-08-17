@@ -1652,7 +1652,7 @@ a.popup-trigger{
 }
 .screen__title_decor {
 	font-family: lobster;
-
+	font-size: 12px;
 	font-weight: 400;
 	text-transform: none;
 	line-height: 1;
