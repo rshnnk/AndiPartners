@@ -1650,11 +1650,12 @@ a.popup-trigger{
 	color: #5f5e5e
 }
 .screen__title_decor {
-	font-family: lobster, serif;
+	font-family: lobster, sans-serif;
 	font-size: 0;
 	font-weight: 400;
 	text-transform: none;
-	line-height: 1
+	line-height: 1;
+
 }
 .screen__title_decor .animate-text {
 	font-size: 100px
