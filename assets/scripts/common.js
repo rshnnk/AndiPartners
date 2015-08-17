@@ -6,23 +6,16 @@ $(document).ready(function(){
 		$('.screen_first .popup').addClass('active-popup');
 	});
 
-	$('.screen__video').on('click', function(){
-		this.paused?this.play():this.pause();
-		$('.screen__video-wrapper').toggleClass('active');
-	});
 
-	$('.screen__video').on('click', function(){
-		$(this).get(0).play();
-	});
 
 
 	$('.screen__video').click(function (e) {
 		if ($(".screen__video").get(0).paused) {
-			$(".screen__video-wrapper").hide();
+//			$(".screen__video-wrapper").hide();
 			$('.screen__video').get(0).play();
 		} else {
 			$(".screen__video").get(0).pause();
-			$('.screen__video-wrapper').addClass('active');
+//			$('.screen__video-wrapper').addClass('active');
 		}
 		e.preventDefault();
 	});

@@ -1699,10 +1699,7 @@ a.popup-trigger{
 	height: 100%;
 	opacity: .1
 }
-.screen__video-wrapper.active {
-	z-index: 10;
-	opacity: 1
-}
+
 .screen__video {
 	min-width: 100%;
 	min-height: 100%;
