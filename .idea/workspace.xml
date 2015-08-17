@@ -26,7 +26,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="26" selection-start="445" selection-end="445" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="7524">
+            <state line="12" column="97" selection-start="513" selection-end="516" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="7524">
               <folding />
             </state>
           </provider>
@@ -35,7 +35,7 @@
       <file leaf-file-name="common.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/styles/common.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="294" selection-end="524" vertical-scroll-proportion="0.16733068" vertical-offset="0" max-vertical-offset="42444">
+            <state line="9" column="35" selection-start="364" selection-end="364" vertical-scroll-proportion="0.21715818" vertical-offset="0" max-vertical-offset="42444">
               <folding />
             </state>
           </provider>
@@ -272,7 +272,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15005359" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15755627" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -651,14 +651,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="26" selection-start="445" selection-end="445" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="7524">
+        <state line="12" column="97" selection-start="513" selection-end="516" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="7524">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/styles/common.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="294" selection-end="524" vertical-scroll-proportion="0.16733068" vertical-offset="0" max-vertical-offset="42444">
+        <state line="9" column="35" selection-start="364" selection-end="364" vertical-scroll-proportion="0.21715818" vertical-offset="0" max-vertical-offset="42444">
           <folding />
         </state>
       </provider>
