@@ -23,19 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="74" selection-start="1349" selection-end="1349" vertical-scroll-proportion="-23.333334" vertical-offset="0" max-vertical-offset="7416">
+            <state line="260" column="100" selection-start="14216" selection-end="14216" vertical-scroll-proportion="1.0346321" vertical-offset="3963" max-vertical-offset="7524">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="common.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="common.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/styles/common.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1656" column="19" selection-start="30084" selection-end="30084" vertical-scroll-proportion="0.7583333" vertical-offset="29262" max-vertical-offset="42444">
+            <state line="9" column="36" selection-start="365" selection-end="365" vertical-scroll-proportion="-6.0" vertical-offset="0" max-vertical-offset="42444">
               <folding />
             </state>
           </provider>
@@ -44,7 +44,7 @@
       <file leaf-file-name="common.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/scripts/common.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="0" selection-start="845" selection-end="845" vertical-scroll-proportion="0.0" vertical-offset="594" max-vertical-offset="9972">
+            <state line="20" column="46" selection-start="583" selection-end="583" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10188">
               <folding />
             </state>
           </provider>
@@ -78,10 +78,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/assets/scripts/common.js" />
         <option value="$PROJECT_DIR$/assets/scripts/common.min.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/styles/common.css" />
+        <option value="$PROJECT_DIR$/assets/scripts/common.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -633,13 +633,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/scripts/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="0" selection-start="845" selection-end="845" vertical-scroll-proportion="0.0" vertical-offset="594" max-vertical-offset="9972">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/scripts/common.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3274" column="7" selection-start="121132" selection-end="121132" vertical-scroll-proportion="0.0" vertical-offset="58365" max-vertical-offset="59310">
@@ -647,16 +640,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/assets/styles/common.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="74" selection-start="1349" selection-end="1349" vertical-scroll-proportion="-23.333334" vertical-offset="0" max-vertical-offset="7416">
+        <state line="9" column="36" selection-start="365" selection-end="365" vertical-scroll-proportion="-6.0" vertical-offset="0" max-vertical-offset="42444">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/styles/common.css">
+    <entry file="file://$PROJECT_DIR$/assets/scripts/common.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1656" column="19" selection-start="30084" selection-end="30084" vertical-scroll-proportion="0.7583333" vertical-offset="29262" max-vertical-offset="42444">
+        <state line="20" column="46" selection-start="583" selection-end="583" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10188">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="260" column="100" selection-start="14216" selection-end="14216" vertical-scroll-proportion="1.0346321" vertical-offset="3963" max-vertical-offset="7524">
           <folding />
         </state>
       </provider>

@@ -6,9 +6,9 @@ url(../fonts/MyriadProRegular.ttf) format("truetype");
 }
 
 @font-face {
-	font-family: lobster, serif;
-	src:url(../fonts/Lobster_1.3.otf);
-	src:url(../fonts/Lobster-Regular.ttf) format("truetype");
+	font-family: "Lobster";
+	src: url('../fonts/lobster.eot');
+	src:url(../fonts/Lobster_1.3.otf), url(../fonts/Lobster-Regular.ttf) format("truetype"), url('../fonts/Lobster.woff') format("woff");
 }
 
 * {
@@ -1650,7 +1650,7 @@ a.popup-trigger{
 	color: #5f5e5e
 }
 .screen__title_decor {
-	font-family: lobster, sans-serif;
+	font-family: "Lobster";
 	font-size: 0;
 	font-weight: 400;
 	text-transform: none;
