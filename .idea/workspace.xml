@@ -26,25 +26,25 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="425" selection-end="576" vertical-scroll-proportion="-4.0" vertical-offset="108" max-vertical-offset="7524">
+            <state line="261" column="61" selection-start="14268" selection-end="14268" vertical-scroll-proportion="-4.537037" vertical-offset="4453" max-vertical-offset="7488">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="common.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="common.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/styles/common.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1654" column="20" selection-start="29993" selection-end="29993" vertical-scroll-proportion="0.30120483" vertical-offset="29597" max-vertical-offset="42462">
+            <state line="1654" column="20" selection-start="29993" selection-end="29993" vertical-scroll-proportion="-3.7234042" vertical-offset="29597" max-vertical-offset="42462">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="common.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="common.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/scripts/common.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="46" selection-start="583" selection-end="583" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="10188">
+            <state line="8" column="0" selection-start="224" selection-end="442" vertical-scroll-proportion="0.22464898" vertical-offset="0" max-vertical-offset="10188">
               <folding />
             </state>
           </provider>
@@ -79,9 +79,9 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/assets/scripts/common.min.js" />
-        <option value="$PROJECT_DIR$/assets/scripts/common.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/styles/common.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/scripts/common.js" />
       </list>
     </option>
   </component>
@@ -223,6 +223,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -239,6 +257,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/video" />
       <recent name="$PROJECT_DIR$/assets/fonts" />
     </key>
   </component>
@@ -642,23 +661,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/scripts/common.js">
+    <entry file="file://$PROJECT_DIR$/assets/styles/common.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="46" selection-start="583" selection-end="583" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10188">
+        <state line="1654" column="20" selection-start="29993" selection-end="29993" vertical-scroll-proportion="-3.7234042" vertical-offset="29597" max-vertical-offset="42462">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="425" selection-end="576" vertical-scroll-proportion="-4.0" vertical-offset="108" max-vertical-offset="7524">
+        <state line="261" column="61" selection-start="14268" selection-end="14268" vertical-scroll-proportion="-4.537037" vertical-offset="4453" max-vertical-offset="7488">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/styles/common.css">
+    <entry file="file://$PROJECT_DIR$/assets/scripts/common.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1654" column="20" selection-start="29993" selection-end="29993" vertical-scroll-proportion="0.30120483" vertical-offset="29597" max-vertical-offset="42462">
+        <state line="8" column="0" selection-start="224" selection-end="442" vertical-scroll-proportion="0.22464898" vertical-offset="0" max-vertical-offset="10188">
           <folding />
         </state>
       </provider>
