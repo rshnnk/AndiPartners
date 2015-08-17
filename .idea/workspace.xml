@@ -23,19 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="97" selection-start="513" selection-end="516" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="7524">
+            <state line="14" column="0" selection-start="628" selection-end="628" vertical-scroll-proportion="0.3504868" vertical-offset="0" max-vertical-offset="7524">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="common.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="common.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/styles/common.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="35" selection-start="364" selection-end="364" vertical-scroll-proportion="0.21715818" vertical-offset="0" max-vertical-offset="42444">
+            <state line="1643" column="21" selection-start="29928" selection-end="29928" vertical-scroll-proportion="-1.5106384" vertical-offset="29503" max-vertical-offset="42444">
               <folding />
             </state>
           </provider>
@@ -649,16 +649,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/assets/styles/common.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="97" selection-start="513" selection-end="516" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="7524">
+        <state line="1643" column="21" selection-start="29928" selection-end="29928" vertical-scroll-proportion="-1.5106384" vertical-offset="29503" max-vertical-offset="42444">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/styles/common.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="35" selection-start="364" selection-end="364" vertical-scroll-proportion="0.21715818" vertical-offset="0" max-vertical-offset="42444">
+        <state line="14" column="0" selection-start="628" selection-end="628" vertical-scroll-proportion="0.3504868" vertical-offset="0" max-vertical-offset="7524">
           <folding />
         </state>
       </provider>
