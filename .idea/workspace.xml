@@ -26,26 +26,28 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="74" selection-start="1349" selection-end="1349" vertical-scroll-proportion="-23.333334" vertical-offset="0" max-vertical-offset="7416">
+            <state line="256" column="34" selection-start="14087" selection-end="14091" vertical-scroll-proportion="-4.351852" vertical-offset="4373" max-vertical-offset="7416">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="common.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="common.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/styles/common.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1656" column="19" selection-start="30084" selection-end="30084" vertical-scroll-proportion="0.7583333" vertical-offset="29262" max-vertical-offset="42444">
+            <state line="1700" column="29" selection-start="30741" selection-end="30747" vertical-scroll-proportion="-9.222222" vertical-offset="30351" max-vertical-offset="42444">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="common.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="common.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/scripts/common.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="0" selection-start="845" selection-end="845" vertical-scroll-proportion="0.0" vertical-offset="594" max-vertical-offset="9972">
-              <folding />
+            <state line="13" column="4" selection-start="371" selection-end="448" vertical-scroll-proportion="0.30232558" vertical-offset="0" max-vertical-offset="9936">
+              <folding>
+                <marker date="1439901406070" expanded="false" signature="371:448" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,7 +55,7 @@
       <file leaf-file-name="common.min.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/scripts/common.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3274" column="7" selection-start="121132" selection-end="121132" vertical-scroll-proportion="0.0" vertical-offset="58365" max-vertical-offset="59310">
+            <state line="3259" column="7" selection-start="120757" selection-end="120757" vertical-scroll-proportion="0.0" vertical-offset="57469" max-vertical-offset="59310">
               <folding />
             </state>
           </provider>
@@ -78,17 +80,19 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/assets/scripts/common.js" />
         <option value="$PROJECT_DIR$/assets/scripts/common.min.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/styles/common.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/scripts/common.js" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="width" value="1912" />
-    <option name="height" value="1042" />
+    <option name="x" value="-2" />
+    <option name="y" value="-3" />
+    <option name="width" value="1924" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -116,6 +120,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -220,9 +225,26 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -237,6 +259,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/video" />
       <recent name="$PROJECT_DIR$/assets/fonts" />
     </key>
   </component>
@@ -266,15 +289,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1912" height="1042" extended-state="4" />
+    <frame x="-2" y="-3" width="1924" height="1049" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.150108" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1414791" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22561629" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23269436" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -323,7 +346,9 @@
     <entry file="file://$PROJECT_DIR$/assets/scripts/common.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="0" selection-start="845" selection-end="845" vertical-scroll-proportion="0.0" vertical-offset="594" max-vertical-offset="9972">
-          <folding />
+          <folding>
+            <marker date="1439901406070" expanded="false" signature="371:448" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -358,7 +383,9 @@
     <entry file="file://$PROJECT_DIR$/assets/scripts/common.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="0" selection-start="845" selection-end="845" vertical-scroll-proportion="0.0" vertical-offset="594" max-vertical-offset="9972">
-          <folding />
+          <folding>
+            <marker date="1439901406070" expanded="false" signature="371:448" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -393,7 +420,9 @@
     <entry file="file://$PROJECT_DIR$/assets/scripts/common.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="0" selection-start="845" selection-end="845" vertical-scroll-proportion="0.0" vertical-offset="594" max-vertical-offset="9972">
-          <folding />
+          <folding>
+            <marker date="1439901406070" expanded="false" signature="371:448" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -428,7 +457,9 @@
     <entry file="file://$PROJECT_DIR$/assets/scripts/common.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="0" selection-start="845" selection-end="845" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9972">
-          <folding />
+          <folding>
+            <marker date="1439901406070" expanded="false" signature="371:448" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -463,7 +494,9 @@
     <entry file="file://$PROJECT_DIR$/assets/scripts/common.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="29" selection-start="821" selection-end="831" vertical-scroll-proportion="0.0" vertical-offset="522" max-vertical-offset="9972">
-          <folding />
+          <folding>
+            <marker date="1439901406070" expanded="false" signature="371:448" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -498,7 +531,9 @@
     <entry file="file://$PROJECT_DIR$/assets/scripts/common.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="32" column="20" selection-start="866" selection-end="866" vertical-scroll-proportion="0.0" vertical-offset="576" max-vertical-offset="10278">
-          <folding />
+          <folding>
+            <marker date="1439901406070" expanded="false" signature="371:448" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -533,7 +568,9 @@
     <entry file="file://$PROJECT_DIR$/assets/scripts/common.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="48" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="10026">
-          <folding />
+          <folding>
+            <marker date="1439901406070" expanded="false" signature="371:448" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -568,7 +605,9 @@
     <entry file="file://$PROJECT_DIR$/assets/scripts/common.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="44" selection-start="445" selection-end="445" vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="9774">
-          <folding />
+          <folding>
+            <marker date="1439901406070" expanded="false" signature="371:448" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -603,7 +642,9 @@
     <entry file="file://$PROJECT_DIR$/assets/scripts/common.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="44" column="56" selection-start="1036" selection-end="1036" vertical-scroll-proportion="0.0" vertical-offset="792" max-vertical-offset="9684">
-          <folding />
+          <folding>
+            <marker date="1439901406070" expanded="false" signature="371:448" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -633,31 +674,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/scripts/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="0" selection-start="845" selection-end="845" vertical-scroll-proportion="0.0" vertical-offset="594" max-vertical-offset="9972">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/scripts/common.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3274" column="7" selection-start="121132" selection-end="121132" vertical-scroll-proportion="0.0" vertical-offset="58365" max-vertical-offset="59310">
+        <state line="3259" column="7" selection-start="120757" selection-end="120757" vertical-scroll-proportion="0.0" vertical-offset="57469" max-vertical-offset="59310">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="74" selection-start="1349" selection-end="1349" vertical-scroll-proportion="-23.333334" vertical-offset="0" max-vertical-offset="7416">
+        <state line="256" column="34" selection-start="14087" selection-end="14091" vertical-scroll-proportion="-4.351852" vertical-offset="4373" max-vertical-offset="7416">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/styles/common.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1656" column="19" selection-start="30084" selection-end="30084" vertical-scroll-proportion="0.7583333" vertical-offset="29262" max-vertical-offset="42444">
+        <state line="1700" column="29" selection-start="30741" selection-end="30747" vertical-scroll-proportion="-9.222222" vertical-offset="30351" max-vertical-offset="42444">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scripts/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="4" selection-start="371" selection-end="448" vertical-scroll-proportion="0.30232558" vertical-offset="0" max-vertical-offset="9936">
+          <folding>
+            <marker date="1439901406070" expanded="false" signature="371:448" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
