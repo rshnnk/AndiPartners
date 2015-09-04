@@ -11,9 +11,9 @@ $(document).ready(function(){
 		$('.screen__video-wrapper').toggleClass('active');
 	});
 
-//	$('.screen__video').on('click', function(){
-//		$(this).get(0).play();
-//	});
+	$('.screen__video').on('click', function(){
+		$(this).get(0).play();
+	});
 
 
 
