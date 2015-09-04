@@ -1550,10 +1550,6 @@ a.popup-trigger{
 	justify-content: flex-start;
 }
 
-.screen_seventh .list__item img{
-	flex: 0 0 17%;
-}
-
 .screen_eighth {
 	background-color: #e8b9a9
 }
@@ -1874,6 +1870,12 @@ a.popup-trigger{
 	margin-right: 0;
 	margin-left: 0
 }
+
+
+.screen_seventh .list__item img{
+	flex: 0 0 17%;
+}
+
 
 @media only screen and (min-width: 1700px){
 	.screen_first .popup{
