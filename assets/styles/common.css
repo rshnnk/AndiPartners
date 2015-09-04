@@ -1542,6 +1542,14 @@ a.popup-trigger{
 	align-content: space-between;
 	height: 100%;
 }
+
+.screen_seventh .list__item{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: flex-start;
+}
+
 .screen_eighth {
 	background-color: #e8b9a9
 }
