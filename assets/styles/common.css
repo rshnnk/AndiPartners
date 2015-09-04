@@ -1700,6 +1700,12 @@ a.popup-trigger{
 	opacity: .1
 }
 
+.screen__video-wrapper.active{
+	opacity: 1;
+	z-index: 1000;
+}
+
+
 .screen__video {
 	min-width: 100%;
 	min-height: 100%;
