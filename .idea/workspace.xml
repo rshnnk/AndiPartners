@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdc555f8-cb57-43cf-b297-20e14d65e68b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/styles/common.css" afterPath="$PROJECT_DIR$/assets/styles/common.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="dist.iws" />
@@ -343,7 +342,13 @@
       <option name="project" value="LOCAL" />
       <updated>1441382510585</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Merge branch 'master' of github.com:ruslanarshinnik/AndiPartners&#10;&#10;Conflicts:&#10;&#9;.idea/workspace.xml&#10;&#9;assets/scripts/common.js&#10;">
+      <created>1441382654237</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1441382654237</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
